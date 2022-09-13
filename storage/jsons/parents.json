@@ -1,0 +1,675 @@
+[
+    {
+        "key": "1387",
+        "id": 1387,
+        "name": "NPC",
+        "children": [
+            {
+                "key": "1387-1393",
+                "id": 1393,
+                "name": "H\u01afNG Y\u00caN",
+                "children": null
+            },
+            {
+                "key": "1387-1394",
+                "id": 1394,
+                "name": "B\u1eaeC NINH",
+                "children": null
+            },
+            {
+                "key": "1387-1395",
+                "id": 1395,
+                "name": "H\u00c0 NAM",
+                "children": null
+            },
+            {
+                "key": "1387-1396",
+                "id": 1396,
+                "name": "TH\u00c1I NGUY\u00caN",
+                "children": null
+            },
+            {
+                "key": "1387-1397",
+                "id": 1397,
+                "name": "V\u0128NH PH\u00daC",
+                "children": null
+            },
+            {
+                "key": "1387-1398",
+                "id": 1398,
+                "name": "H\u00d2A B\u00ccNH",
+                "children": null
+            },
+            {
+                "key": "1387-1399",
+                "id": 1399,
+                "name": "S\u01a0N LA",
+                "children": null
+            },
+            {
+                "key": "1387-1400",
+                "id": 1400,
+                "name": "H\u00c0 T\u0128NH",
+                "children": null
+            },
+            {
+                "key": "1387-1401",
+                "id": 1401,
+                "name": "B\u1eaeC GIANG",
+                "children": null
+            },
+            {
+                "key": "1387-1402",
+                "id": 1402,
+                "name": "B\u1eaeC K\u1ea0N",
+                "children": null
+            },
+            {
+                "key": "1387-1403",
+                "id": 1403,
+                "name": "CAO B\u1eb0NG",
+                "children": null
+            },
+            {
+                "key": "1387-1404",
+                "id": 1404,
+                "name": "\u0110I\u1ec6N BI\u00caN",
+                "children": null
+            },
+            {
+                "key": "1387-1405",
+                "id": 1405,
+                "name": "H\u00c0 GIANG",
+                "children": null
+            },
+            {
+                "key": "1387-1406",
+                "id": 1406,
+                "name": "QU\u1ea2NG NINH",
+                "children": null
+            },
+            {
+                "key": "1387-1407",
+                "id": 1407,
+                "name": "LAI CH\u00c2U",
+                "children": null
+            },
+            {
+                "key": "1387-1408",
+                "id": 1408,
+                "name": "L\u1ea0NG S\u01a0N",
+                "children": null
+            },
+            {
+                "key": "1387-1409",
+                "id": 1409,
+                "name": "L\u00c0O CAI",
+                "children": null
+            },
+            {
+                "key": "1387-1410",
+                "id": 1410,
+                "name": "NAM \u0110\u1ecaNH",
+                "children": null
+            },
+            {
+                "key": "1387-1411",
+                "id": 1411,
+                "name": "NGH\u1ec6 AN",
+                "children": null
+            },
+            {
+                "key": "1387-1412",
+                "id": 1412,
+                "name": "PH\u00da TH\u1ecc",
+                "children": null
+            },
+            {
+                "key": "1387-1413",
+                "id": 1413,
+                "name": "TUY\u00caN QUANG",
+                "children": null
+            },
+            {
+                "key": "1387-1414",
+                "id": 1414,
+                "name": "TH\u00c1I B\u00ccNH",
+                "children": null
+            },
+            {
+                "key": "1387-1415",
+                "id": 1415,
+                "name": "THANH H\u00d3A",
+                "children": null
+            },
+            {
+                "key": "1387-1416",
+                "id": 1416,
+                "name": "Y\u00caN B\u00c1I",
+                "children": null
+            },
+            {
+                "key": "1387-1417",
+                "id": 1417,
+                "name": "H\u1ea2I D\u01af\u01a0NG",
+                "children": null
+            },
+            {
+                "key": "1387-1418",
+                "id": 1418,
+                "name": "H\u1ea2I PH\u00d2NG",
+                "children": null
+            },
+            {
+                "key": "1387-1419",
+                "id": 1419,
+                "name": "NINH B\u00ccNH",
+                "children": null
+            },
+            {
+                "key": "1387-1423",
+                "id": 1423,
+                "name": "PXCD_ETC",
+                "children": null
+            },
+            {
+                "key": "1387-1447",
+                "id": 1447,
+                "name": "H\u01b0ng H\u00e0",
+                "children": null
+            },
+            {
+                "key": "1387-1450",
+                "id": 1450,
+                "name": "RANH GI\u1edaI",
+                "children": null
+            },
+            {
+                "key": "1387-1463",
+                "id": 1463,
+                "name": "ETC",
+                "children": null
+            },
+            {
+                "key": "1387-1488",
+                "id": 1488,
+                "name": "QT02.PXC\u0110",
+                "children": null
+            },
+            {
+                "key": "1387-1512",
+                "id": 1512,
+                "name": "TTTN\u0110 Ninh B\u00ecnh",
+                "children": null
+            },
+            {
+                "key": "1387-1516",
+                "id": 1516,
+                "name": "TTTN\u0110 Ph\u00fa Th\u1ecd",
+                "children": null
+            },
+            {
+                "key": "1387-1517",
+                "id": 1517,
+                "name": "NMXM",
+                "children": null
+            },
+            {
+                "key": "1387-1519",
+                "id": 1519,
+                "name": "TTTN\u0110 Th\u00e1i Nguy\u00ean",
+                "children": null
+            },
+            {
+                "key": "1387-1521",
+                "id": 1521,
+                "name": "TTTN\u0110 B\u1eafc K\u1ea1n",
+                "children": null
+            },
+            {
+                "key": "1387-1522",
+                "id": 1522,
+                "name": "NPSC",
+                "children": null
+            },
+            {
+                "key": "1387-1525",
+                "id": 1525,
+                "name": "TTTN\u0110 B\u1eafc Ninh",
+                "children": null
+            },
+            {
+                "key": "1387-1526",
+                "id": 1526,
+                "name": "TTTN\u0110 H\u00e0 Nam",
+                "children": null
+            },
+            {
+                "key": "1387-1528",
+                "id": 1528,
+                "name": "HO\u00c0 B\u00ccNH",
+                "children": null
+            },
+            {
+                "key": "1387-1529",
+                "id": 1529,
+                "name": "THANH HO\u00c1",
+                "children": null
+            },
+            {
+                "key": "1387-1549",
+                "id": 1549,
+                "name": "TTTN\u0110 H\u00e0 T\u0129nh",
+                "children": null
+            },
+            {
+                "key": "1387-1550",
+                "id": 1550,
+                "name": "TTTN\u0110 S\u01a1n La",
+                "children": null
+            },
+            {
+                "key": "1387-1551",
+                "id": 1551,
+                "name": "TTTN\u0110 H\u1ea3i D\u01b0\u01a1ng",
+                "children": null
+            },
+            {
+                "key": "1387-1552",
+                "id": 1552,
+                "name": "TTTN\u0110 Qu\u1ea3ng Ninh",
+                "children": null
+            },
+            {
+                "key": "1387-1553",
+                "id": 1553,
+                "name": "TTTN\u0110 Cao B\u1eb1ng",
+                "children": null
+            },
+            {
+                "key": "1387-1554",
+                "id": 1554,
+                "name": "TTTN\u0110 V\u0129nh Ph\u00fac",
+                "children": null
+            },
+            {
+                "key": "1387-1555",
+                "id": 1555,
+                "name": "TTTN\u0110 H\u1ea3i Ph\u00f2ng",
+                "children": null
+            },
+            {
+                "key": "1387-1556",
+                "id": 1556,
+                "name": "TTTN\u0110 B\u1eafc Giang",
+                "children": null
+            },
+            {
+                "key": "1387-1557",
+                "id": 1557,
+                "name": "TTTN\u0110 Thanh H\u00f3a",
+                "children": null
+            },
+            {
+                "key": "1387-1558",
+                "id": 1558,
+                "name": "TTTN\u0110 Lai Ch\u00e2u",
+                "children": null
+            },
+            {
+                "key": "1387-1559",
+                "id": 1559,
+                "name": "TTTN\u0110 H\u01b0ng Y\u00ean",
+                "children": null
+            },
+            {
+                "key": "1387-1560",
+                "id": 1560,
+                "name": "TTTN\u0110 Ngh\u1ec7 An",
+                "children": null
+            },
+            {
+                "key": "1387-1561",
+                "id": 1561,
+                "name": "TTTN\u0110 L\u1ea1ng S\u01a1n",
+                "children": null
+            },
+            {
+                "key": "1387-1562",
+                "id": 1562,
+                "name": "TTTN\u0110 Ho\u00e0 B\u00ecnh",
+                "children": null
+            },
+            {
+                "key": "1387-1563",
+                "id": 1563,
+                "name": "TTTN\u0110 H\u00e0 Giang",
+                "children": null
+            },
+            {
+                "key": "1387-1564",
+                "id": 1564,
+                "name": "TTTN\u0110 L\u00e0o Cai",
+                "children": null
+            },
+            {
+                "key": "1387-1566",
+                "id": 1566,
+                "name": "TTTN\u0110 \u0110i\u1ec7n Bi\u00ean",
+                "children": null
+            },
+            {
+                "key": "1387-1567",
+                "id": 1567,
+                "name": "TTTN\u0110 Nam \u0110\u1ecbnh",
+                "children": null
+            },
+            {
+                "key": "1387-1568",
+                "id": 1568,
+                "name": "TTTN\u0110 Tuy\u00ean Quang",
+                "children": null
+            },
+            {
+                "key": "1387-1569",
+                "id": 1569,
+                "name": "TTTN\u0110 Th\u00e1i B\u00ecnh",
+                "children": null
+            },
+            {
+                "key": "1387-1583",
+                "id": 1583,
+                "name": "TTTN\u0110 Y\u00ean B\u00e1i",
+                "children": null
+            }
+        ]
+    },
+    {
+        "key": "1388",
+        "id": 1388,
+        "name": "DAUNGUON",
+        "children": [
+            {
+                "key": "1388-1472",
+                "id": 1472,
+                "name": "TTD",
+                "children": null
+            },
+            {
+                "key": "1388-1473",
+                "id": 1473,
+                "name": "NMTD",
+                "children": null
+            },
+            {
+                "key": "1388-1474",
+                "id": 1474,
+                "name": "NMND",
+                "children": null
+            },
+            {
+                "key": "1388-1492",
+                "id": 1492,
+                "name": "EVNHANOI",
+                "children": null
+            },
+            {
+                "key": "1388-1573",
+                "id": 1573,
+                "name": "Ng\u0103n 431",
+                "children": null
+            },
+            {
+                "key": "1388-1576",
+                "id": 1576,
+                "name": "NMDMT",
+                "children": null
+            },
+            {
+                "key": "1388-1592",
+                "id": 1592,
+                "name": "MNTD",
+                "children": null
+            }
+        ]
+    },
+    {
+        "key": "1389",
+        "id": 1389,
+        "name": "NMD",
+        "children": [
+            {
+                "key": "1389-1390",
+                "id": 1390,
+                "name": "NMND",
+                "children": null
+            },
+            {
+                "key": "1389-1391",
+                "id": 1391,
+                "name": "NMTD",
+                "children": null
+            },
+            {
+                "key": "1389-1392",
+                "id": 1392,
+                "name": "NMKHAC",
+                "children": null
+            },
+            {
+                "key": "1389-1499",
+                "id": 1499,
+                "name": "KONTUM",
+                "children": null
+            },
+            {
+                "key": "1389-1505",
+                "id": 1505,
+                "name": "NM\u0110MT",
+                "children": null
+            }
+        ]
+    },
+    {
+        "key": "1424",
+        "id": 1424,
+        "name": "H\u00c0 N\u1ed8I",
+        "children": [
+            {
+                "key": "1424-1440",
+                "id": 1440,
+                "name": "C\u00f4ng ty DEC",
+                "children": null
+            },
+            {
+                "key": "1424-1464",
+                "id": 1464,
+                "name": "Inverter",
+                "children": null
+            },
+            {
+                "key": "1424-1476",
+                "id": 1476,
+                "name": "HANOI",
+                "children": null
+            },
+            {
+                "key": "1424-1494",
+                "id": 1494,
+                "name": "Kh\u00e1ch h\u00e0ng l\u1ebb",
+                "children": null
+            },
+            {
+                "key": "1424-1495",
+                "id": 1495,
+                "name": "TP H\u00c0 N\u1ed8I",
+                "children": null
+            }
+        ]
+    },
+    {
+        "key": "1451",
+        "id": 1451,
+        "name": "CNNL-HC-CNKD",
+        "children": [
+            {
+                "key": "1451-1461",
+                "id": 1461,
+                "name": "ND- TB\u0110",
+                "children": null
+            }
+        ]
+    },
+    {
+        "key": "1456",
+        "id": 1456,
+        "name": "Ban Qu\u1ea3n l\u00fd d\u1ef1 \u00e1n X\u00e2y d\u1ef1ng \u0110i\u1ec7n mi\u1ec1n B\u1eafc (BA3)",
+        "children": []
+    },
+    {
+        "key": "1478",
+        "id": 1478,
+        "name": "THI\u1ebeT B\u1eca L\u1eba - QT02",
+        "children": [
+            {
+                "key": "1478-1479",
+                "id": 1479,
+                "name": "QT02.CNNL",
+                "children": null
+            },
+            {
+                "key": "1478-1480",
+                "id": 1480,
+                "name": "QT02.H\u00f3a",
+                "children": null
+            },
+            {
+                "key": "1478-1481",
+                "id": 1481,
+                "name": "QT02.\u0110o L\u01b0\u1eddng",
+                "children": null
+            },
+            {
+                "key": "1478-1482",
+                "id": 1482,
+                "name": "QT02.PXC\u0110",
+                "children": null
+            },
+            {
+                "key": "1478-1483",
+                "id": 1483,
+                "name": "QT02.T\u1ef1 \u0110\u1ed9ng H\u00f3a",
+                "children": null
+            },
+            {
+                "key": "1478-1484",
+                "id": 1484,
+                "name": "QT02.R\u01a1 Le",
+                "children": null
+            },
+            {
+                "key": "1478-1485",
+                "id": 1485,
+                "name": "QT02.Cao \u00c1p",
+                "children": null
+            }
+        ]
+    },
+    {
+        "key": "1496",
+        "id": 1496,
+        "name": "PXC\u0110 ngo\u00e0i NPC",
+        "children": [
+            {
+                "key": "1496-1498",
+                "id": 1498,
+                "name": "KCN \u0110\u1ea1i An - H\u1ea3i D\u01b0\u01a1ng",
+                "children": null
+            },
+            {
+                "key": "1496-1508",
+                "id": 1508,
+                "name": "VINHOME OCEAN PARK",
+                "children": null
+            },
+            {
+                "key": "1496-1513",
+                "id": 1513,
+                "name": "Vinhomes Smart City",
+                "children": null
+            },
+            {
+                "key": "1496-1545",
+                "id": 1545,
+                "name": "Nh\u00e0 m\u00e1y Xi m\u0103ng Quang S\u01a1n - Th\u00e1i Nguy\u00ean",
+                "children": null
+            },
+            {
+                "key": "1496-1548",
+                "id": 1548,
+                "name": "Th\u1ee7y \u0110i\u1ec7n N\u1eadm Gi\u1ea3i Qu\u1ebf Phong Ngh\u1ec7 An",
+                "children": null
+            },
+            {
+                "key": "1496-1571",
+                "id": 1571,
+                "name": "Tr\u01b0\u1eddng THCS \u0110o\u00e0n Th\u1ecb \u0110i\u1ec3m",
+                "children": null
+            },
+            {
+                "key": "1496-1572",
+                "id": 1572,
+                "name": "Nh\u00e0 m\u00e1y xi m\u0103ng Duy\u00ean H\u00e0- Ninh B\u00ecnh",
+                "children": null
+            },
+            {
+                "key": "1496-1578",
+                "id": 1578,
+                "name": "H\u1ed7 tr\u1ee3 ETC HP",
+                "children": null
+            },
+            {
+                "key": "1496-1584",
+                "id": 1584,
+                "name": "Ban QLDA XDCT HT TP Vi\u1ec7t Tr\u00ec",
+                "children": null
+            },
+            {
+                "key": "1496-1586",
+                "id": 1586,
+                "name": "KCN Th\u00e1i H\u00e0 - H\u00e0 Nam",
+                "children": null
+            }
+        ]
+    },
+    {
+        "key": "1518",
+        "id": 1518,
+        "name": "Tr\u1ea1m 110kV ngo\u00e0i NPC",
+        "children": []
+    },
+    {
+        "key": "1523",
+        "id": 1523,
+        "name": "Ban Qu\u1ea3n l\u00fd D\u1ef1 \u00e1n L\u01b0\u1edbi \u0111i\u1ec7n (BA1)",
+        "children": []
+    },
+    {
+        "key": "1546",
+        "id": 1546,
+        "name": "C\u00f4ng ty Gang th\u00e9p Th\u00e1i nguy\u00ean",
+        "children": []
+    },
+    {
+        "key": "1547",
+        "id": 1547,
+        "name": "Truy\u1ec1n t\u1ea3i",
+        "children": []
+    },
+    {
+        "key": "1577",
+        "id": 1577,
+        "name": "Ban Qu\u1ea3n l\u00fd d\u1ef1 \u00e1n ph\u00e1t tri\u1ec3n \u0111i\u1ec7n l\u1ef1c (BA2)",
+        "children": []
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "name": "Measure",
+    "alias": "measure",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Measure\\Providers\\MeasureServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

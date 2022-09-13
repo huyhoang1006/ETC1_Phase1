@@ -1,0 +1,13 @@
+{
+    "name": "Machines",
+    "alias": "machines",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Machines\\Providers\\MachinesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

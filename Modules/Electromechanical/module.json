@@ -1,0 +1,13 @@
+{
+    "name": "Electromechanical",
+    "alias": "electromechanical",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Electromechanical\\Providers\\ElectromechanicalServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

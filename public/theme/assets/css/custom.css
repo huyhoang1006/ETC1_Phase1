@@ -1,0 +1,139 @@
+.vertical-menu .vertical-submenu > li.active > a.active{
+    color: #1a4796 !important;
+    background: #fff;
+}
+
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, .2);
+    z-index: 111;
+    display: flex;
+    justify-content: center;
+    align-items: cel;
+    align-items: center;
+}
+.overlay.hidden{
+    display: none;
+}
+#table-reports{
+    display: none;
+}
+.tree_menu_sub > a.active{
+    color: #FFF !important;
+}
+.tree_menu_sub{
+    positon: relative;
+}
+.vertical-menu li .vertical-submenu li .vertical-submenu li .vertical-submenu li.active > a{
+    color: #FFF !important;
+}
+#mainContent > .breadcrumbbar{
+    margin: 80px 0 30px 0;
+}
+.vertical-menu .vertical-submenu > li > a:before{
+    content: "";
+    padding-right: 1rem;
+}
+.vertical-submenu > li > a{
+    position: relative;
+}
+.vertical-submenu > li > a i{
+    position: absolute;
+    left: 15px;
+    top: 3px;
+}
+.vertical-menu .vertical-submenu > li > a{
+    position: relative;
+}
+.tree_menu_sub .has-background{
+    background: #1a4796;
+}
+.vertical-menu li.active.tree_menu_sub .vertical-submenu .vertical-submenu .vertical-submenu .active a.active.has-background,
+.vertical-menu li.active.tree_menu_sub .vertical-submenu .vertical-submenu .active a.active.has-background{
+    color: #FFF !important;
+}
+.vertical-menu .vertical-submenu > li.active > a.active-current,
+.active-current,
+.vertical-menu li.active .vertical-submenu .vertical-submenu .vertical-submenu .active a.active,
+.vertical-menu .vertical-submenu > li > a.active-current,
+.vertical-menu li .vertical-submenu li .vertical-submenu li .vertical-submenu a.active-current,
+.vertical-menu li .vertical-submenu li .vertical-submenu li .vertical-submenu li.active > a.active-current{
+    background: #FFF !important;
+    color: #1a4796 !important;
+    width: 100% !important;
+    display: block;
+}
+
+.vertical-menu li a:hover,
+.vertical-menu li .vertical-submenu li .vertical-submenu li .vertical-submenu a:hover,
+.vertical-menu li .vertical-submenu li .vertical-submenu li .vertical-submenu li.active > a:hover{
+    color: #1a4796 !important;
+    background: #FFF !important;
+    width: 100% !important;
+    display: block;
+}
+.vertical-menu > li:hover > a{
+    color: #FFF;
+}
+
+.vertical-submenu .sub-menu li,
+.vertical-submenu .sub-menu2 li,
+.vertical-submenu .sub-menu3 li,
+.vertical-submenu .sub-menu4 li,
+.vertical-submenu .sub-menu5 li{
+    list-style: none;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+.link-has-child-menu{
+    position: relative;
+}
+#toggle-menu{
+    position: absolute;
+    top: -5px;
+    left: -8px;
+    color: #FFF;
+    padding: 10px;
+    cursor: pointer;
+}
+.clicked{
+    transform: rotate(90deg);
+    -webkit-transition: 0.3s ease-in;
+    transition: 0.3s ease-in;
+}
+
+.link-has-child-menu > a:hover + #toggle-menu,
+.link-has-child-menu > a.active-current + #toggle-menu{
+    color: #1a4796 !important;
+}
+.title-left{
+    width: calc(100% - 150px);
+}
+.button-hidden{
+    display: none;
+}
+.btn-view-user{
+    background-color: #1a4796 !important;
+    border-color: #1a4796 !important;
+}
+.alert-permission{
+    background: #1a4796;
+    color: #FFF;
+}
+.alert-permission button{
+    opacity: 1;
+}

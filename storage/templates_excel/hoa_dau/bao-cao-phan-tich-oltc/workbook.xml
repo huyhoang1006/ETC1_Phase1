@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"
+          xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+          xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="x15 xr xr6 xr10 xr2"
+          xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main"
+          xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"
+          xmlns:xr6="http://schemas.microsoft.com/office/spreadsheetml/2016/revision6"
+          xmlns:xr10="http://schemas.microsoft.com/office/spreadsheetml/2016/revision10"
+          xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2">
+    <fileVersion appName="xl" lastEdited="7" lowestEdited="6" rupBuild="24332"/>
+    <workbookPr codeName="ThisWorkbook" defaultThemeVersion="124226"/>
+    <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+        <mc:Choice Requires="x15">
+            <x15ac:absPath url="C:\xampp\htdocs\telehouse21-etc\storage\templates_excel\hoa_dau\bao-cao-phan-tich-oltc\"
+                           xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac"/>
+        </mc:Choice>
+    </mc:AlternateContent>
+    <xr:revisionPtr revIDLastSave="0" documentId="13_ncr:1_{783A826C-D858-4A3B-A408-9C532731553D}"
+                    xr6:coauthVersionLast="47" xr6:coauthVersionMax="47"
+                    xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
+    <bookViews>
+        <workbookView xWindow="-120" yWindow="-120" windowWidth="29040" windowHeight="15840" activeTab="1"
+                      xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
+    </bookViews>
+    <sheets>
+        <sheet name="Sheet2" sheetId="2" state="hidden" r:id="rId1"/>
+        <sheet name="OLTC" sheetId="7" r:id="rId2"/>
+        <sheet name="Sheet4" sheetId="8" state="hidden" r:id="rId3"/>
+        <sheet name="Sheet3" sheetId="6" state="veryHidden" r:id="rId4"/>
+    </sheets>
+    <definedNames>
+        <definedName name="KETQUA1">Sheet2!$K$6:$K$12</definedName>
+        <definedName name="KETQUA2">Sheet2!$J$57:$J$63</definedName>
+        <definedName name="KETQUA3">Sheet2!$M$57:$M$63</definedName>
+        <definedName name="KETQUA4">Sheet2!$K$30:$K$35</definedName>
+        <definedName name="KETQUA5">Sheet4!$J$7:$J$22</definedName>
+        <definedName name="KETQUA6">Sheet2!$M$30:$M$35</definedName>
+        <definedName name="pctC2H2" localSheetId="0">Sheet2!#REF!</definedName>
+        <definedName name="pctC2H2" localSheetId="2">Sheet4!#REF!</definedName>
+        <definedName name="pctC2H4" localSheetId="0">Sheet2!#REF!</definedName>
+        <definedName name="pctC2H4" localSheetId="2">Sheet4!#REF!</definedName>
+        <definedName name="pctCH4" localSheetId="0">Sheet2!#REF!</definedName>
+        <definedName name="pctCH4" localSheetId="2">Sheet4!#REF!</definedName>
+        <definedName name="ppmC2H2" localSheetId="0">Sheet2!#REF!</definedName>
+        <definedName name="ppmC2H2" localSheetId="2">Sheet4!#REF!</definedName>
+        <definedName name="ppmC2H4" localSheetId="0">Sheet2!#REF!</definedName>
+        <definedName name="ppmC2H4" localSheetId="2">Sheet4!#REF!</definedName>
+        <definedName name="ppmC2H41">#REF!</definedName>
+        <definedName name="ppmCH4" localSheetId="0">Sheet2!#REF!</definedName>
+        <definedName name="ppmCH4" localSheetId="2">Sheet4!#REF!</definedName>
+        <definedName name="ppmCH41">#REF!</definedName>
+        <definedName name="Résultat" localSheetId="0">Sheet2!#REF!</definedName>
+        <definedName name="Résultat" localSheetId="2">Sheet4!#REF!</definedName>
+        <definedName name="SommeABC" localSheetId="0">Sheet2!#REF!</definedName>
+        <definedName name="SommeABC" localSheetId="2">Sheet4!#REF!</definedName>
+    </definedNames>
+    <calcPr calcId="191029" iterate="1"/>
+</workbook>

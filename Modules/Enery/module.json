@@ -1,0 +1,13 @@
+{
+    "name": "Enery",
+    "alias": "enery",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Enery\\Providers\\EneryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

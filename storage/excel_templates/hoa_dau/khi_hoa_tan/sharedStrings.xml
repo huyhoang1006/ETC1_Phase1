@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="983" uniqueCount="455">
+    <si>
+        <t>KẾT QUẢ PHÂN TÍCH KHÍ HÒA TAN</t>
+    </si>
+    <si>
+        <t>Kết quả thí nghiệm DGA (ppm)</t>
+    </si>
+    <si>
+        <t>H2</t>
+    </si>
+    <si>
+        <t>CH4</t>
+    </si>
+    <si>
+        <t>C2H4</t>
+    </si>
+    <si>
+        <t>C2H6</t>
+    </si>
+    <si>
+        <t>C2H2</t>
+    </si>
+    <si>
+        <t>CO</t>
+    </si>
+    <si>
+        <t>CO2</t>
+    </si>
+    <si>
+        <t>TKC</t>
+    </si>
+    <si>
+        <t>CO2/CO</t>
+    </si>
+    <si>
+        <t>Khi nồng độ khí bằng "0", thì nhập nồng độ phát hiện giới hạn MDL (H2 = 20 ppm, C = 1 ppm)</t>
+    </si>
+    <si>
+        <t>L1 - Nồng độ khí gới hạn (ppm)</t>
+    </si>
+    <si>
+        <t>500*</t>
+    </si>
+    <si>
+        <t>2000(4000)*</t>
+    </si>
+    <si>
+        <t>Tiêu chuẩn Nga</t>
+    </si>
+    <si>
+        <t>6000(8000)</t>
+    </si>
+    <si>
+        <t xml:space="preserve">* -Dòng trên cho máy bảo vệ màng hoặc nitơ,dòng dưới-MBA dạng hở; trong ngoặc đối với MBA vận hành trên 10 năm. </t>
+    </si>
+    <si>
+        <t>Đánh giá kết quả thí nghiệm</t>
+    </si>
+    <si>
+        <t>1/ Phương pháp tỷ số theo IEC60599</t>
+    </si>
+    <si>
+        <t>2/ Phương pháp tỷ số theo ROGER (IEEE C57.104.2008)</t>
+    </si>
+    <si>
+        <t>3/ Phương pháp tỷ số theo DOERNENBURG (IEEE C57.104.2008)</t>
+    </si>
+    <si>
+        <t>4/ Phương pháp tỷ số theo tiêu chuẩn Nga</t>
+    </si>
+    <si>
+        <t>6/ Phương pháp biểu đồ theo dạng đặc trưng (chỉ dẫn của Nga)</t>
+    </si>
+    <si>
+        <t>9/ Universal Fault Gas Triangle</t>
+    </si>
+    <si>
+        <t>CH4+C2H4+C2H2</t>
+    </si>
+    <si>
+        <t>%CH4</t>
+    </si>
+    <si>
+        <t>%C2H4</t>
+    </si>
+    <si>
+        <t>%C2H2</t>
+    </si>
+    <si>
+        <t>Triangle</t>
+    </si>
+    <si>
+        <t>Vùng</t>
+    </si>
+    <si>
+        <t>Dạng hư hỏng</t>
+    </si>
+    <si>
+        <t>PD</t>
+    </si>
+    <si>
+        <t>Phóng điện cục bộ</t>
+    </si>
+    <si>
+        <t>T3</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Phân hủy nhiệt T3 &gt;700 độ </t>
+    </si>
+    <si>
+        <t>T2</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Phân hủy nhiệt 300&lt;T2&lt;700 độ </t>
+    </si>
+    <si>
+        <t>T1</t>
+    </si>
+    <si>
+        <t>Phân hủy nhiệt T1&lt;300 độ</t>
+    </si>
+    <si>
+        <t>D1</t>
+    </si>
+    <si>
+        <t>Phóng điện năng lượng thấp (tia lửa điện)</t>
+    </si>
+    <si>
+        <t>D2</t>
+    </si>
+    <si>
+        <t>Phóng điện năng lượng cao (hồ quang điện)</t>
+    </si>
+    <si>
+        <t>Plot</t>
+    </si>
+    <si>
+        <t>Serie 0</t>
+    </si>
+    <si>
+        <t>Serie 1</t>
+    </si>
+    <si>
+        <t>Serie 2</t>
+    </si>
+    <si>
+        <t>Serie 4</t>
+    </si>
+    <si>
+        <t>Serie 5</t>
+    </si>
+    <si>
+        <t>Serie 6</t>
+    </si>
+    <si>
+        <t>Serie 7</t>
+    </si>
+    <si>
+        <t>Serie 8</t>
+    </si>
+    <si>
+        <t>Serie 3</t>
+    </si>
+    <si>
+        <t>1/Duval Triangle (Biểu đồ 3 tỷ số)</t>
+    </si>
+    <si>
+        <t>Đánh giá</t>
+    </si>
+    <si>
+        <t>I/ Phương pháp biểu đồ</t>
+    </si>
+    <si>
+        <t>padi_vi_tri_lay_mau</t>
+    </si>
+    <si>
+        <t>D+T</t>
+    </si>
+    <si>
+        <t>Phóng điện và phân hủy nhiệt</t>
+    </si>
+    <si>
+        <t>padi_dia_diem</t>
+    </si>
+    <si>
+        <t xml:space="preserve">padi_ten_thiet_bi</t>
+    </si>
+    <si>
+        <t>padi_ngay_lay_mau</t>
+    </si>
+    <si>
+        <r>
+            <t>Địa điểm</t>
+        </r>
+        <r>
+            <rPr>
+                <sz val="12"/>
+                <rFont val="Times New Roman"/>
+                <family val="1"/>
+            </rPr>
+            <t xml:space="preserve">:        </t>
+        </r>
+    </si>
+    <si>
+        <r>
+            <t>Tên thiết bị</t>
+        </r>
+        <r>
+            <rPr>
+                <sz val="12"/>
+                <rFont val="Times New Roman"/>
+                <family val="1"/>
+            </rPr>
+            <t xml:space="preserve">:   </t>
+        </r>
+    </si>
+    <si>
+        <r>
+            <t>Vị trí lấy mẫu:</t>
+        </r>
+        <r>
+            <rPr>
+                <sz val="12"/>
+                <rFont val="Times New Roman"/>
+                <family val="1"/>
+            </rPr>
+            <t xml:space="preserve"> </t>
+        </r>
+    </si>
+    <si>
+        <r>
+            <t>Ngày lấy mẫu</t>
+        </r>
+        <r>
+            <rPr>
+                <sz val="12"/>
+                <rFont val="Times New Roman"/>
+                <family val="1"/>
+            </rPr>
+            <t xml:space="preserve">: </t>
+        </r>
+    </si>
+    <si>
+        <t>Universal Fault Gas Triangle</t>
+    </si>
+    <si>
+        <t>Serie 10</t>
+    </si>
+    <si>
+        <t>Serie 11</t>
+    </si>
+    <si>
+        <t>Serie 12</t>
+    </si>
+    <si>
+        <t>Serie 13</t>
+    </si>
+    <si>
+        <t>Serie 14</t>
+    </si>
+    <si>
+        <t>Serie 15</t>
+    </si>
+    <si>
+        <t>Serie 16</t>
+    </si>
+    <si>
+        <t>Biểu đồ 2 tỷ số</t>
+    </si>
+    <si>
+        <t>CH4/H2</t>
+    </si>
+    <si>
+        <t>C2H2/C2H4</t>
+    </si>
+    <si>
+        <t>C2H4/C2H6</t>
+    </si>
+    <si>
+        <t>x</t>
+    </si>
+    <si>
+        <t>y</t>
+    </si>
+    <si>
+        <t>Serie 9</t>
+    </si>
+    <si>
+        <t>Serie 17</t>
+    </si>
+    <si>
+        <t>Biểu đồ khí cơ bản</t>
+    </si>
+    <si>
+        <t>Dạng chuẩn</t>
+    </si>
+    <si>
+        <t>Biểu đồ khí Nga</t>
+    </si>
+    <si>
+        <t>Amax</t>
+    </si>
+    <si>
+        <t>Ai=Ci/Cgh</t>
+    </si>
+    <si>
+        <t>A=Ai/Amax</t>
+    </si>
+    <si>
+        <t>II/ Phương pháp tỷ số</t>
+    </si>
+    <si>
+        <t>1/ Theo IEC 60599</t>
+    </si>
+    <si>
+        <t>Dạng sự cố</t>
+    </si>
+    <si>
+        <t>Mẫu</t>
+    </si>
+    <si>
+        <t>2/ Theo tỷ số Roger:</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Đánh giá </t>
+    </si>
+    <si>
+        <t>Normal</t>
+    </si>
+    <si>
+        <t>3/ Theo tỷ số Doernenburg</t>
+    </si>
+    <si>
+        <t>C2H2/CH4</t>
+    </si>
+    <si>
+        <t>C2H6/C2H2</t>
+    </si>
+    <si>
+        <t>Phân hủy T</t>
+    </si>
+    <si>
+        <t>4/ Phương pháp tỷ số theo tài liệu Nga</t>
+    </si>
+    <si>
+        <t>Đặc trưng</t>
+    </si>
+    <si>
+        <t>Bình thường</t>
+    </si>
+    <si>
+        <t>1/Hóa già bình thường</t>
+    </si>
+    <si>
+        <r>
+            <t xml:space="preserve">PD - </t>
+        </r>
+        <r>
+            <rPr>
+                <b/>
+                <sz val="8"/>
+                <rFont val="Times New Roman"/>
+                <family val="1"/>
+            </rPr>
+            <t>NLT</t>
+        </r>
+    </si>
+    <si>
+        <t>2/Phóng điện cục bộ qua nơi không nạp đầy dầu hoặc cách điện bị ẩm năng lượng thấp</t>
+    </si>
+    <si>
+        <r>
+            <t xml:space="preserve">PD - </t>
+        </r>
+        <r>
+            <rPr>
+                <b/>
+                <sz val="8"/>
+                <rFont val="Times New Roman"/>
+                <family val="1"/>
+            </rPr>
+            <t>NLC</t>
+        </r>
+    </si>
+    <si>
+        <t>3/Phóng điện cục bộ qua nơi không nạp đầy dầu hoặc cách điện bị ẩm năng lượng cao</t>
+    </si>
+    <si>
+        <t>4/Phóng điện trong dầu nơi chênh điện áp hoặc giữa cách điện cứng</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5/Hồ quang điện, chọc thủng dầu giữa các cuộn dây, các gông từ hoặc gông từ với đất </t>
+    </si>
+    <si>
+        <t>To(&lt;150)</t>
+    </si>
+    <si>
+        <t>6/Quá nhiệt dây cuốn cách điện</t>
+    </si>
+    <si>
+        <t>7/Quá nhiệt cục bộ - điểm nóng</t>
+    </si>
+    <si>
+        <t>8/Quá nhiệt cục bộ - điểm nóng phát triển</t>
+    </si>
+    <si>
+        <t>9/Điểm nóng do tiếp xúc, dòng quẩn, quá nhiệt lõi từ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Mẫu TN </t>
+    </si>
+    <si>
+        <t>Quá nhiệt dầu</t>
+    </si>
+    <si>
+        <t>Quá nhiệt giấy cách điện</t>
+    </si>
+    <si>
+        <t>Phóng hồ quang điện</t>
+    </si>
+    <si>
+        <t>CH4+C2H4+C2H6</t>
+    </si>
+    <si>
+        <t>CH4+C2H4+C2H6+H2+C2H2</t>
+    </si>
+    <si>
+        <t>%H2</t>
+    </si>
+    <si>
+        <t>%CH4+</t>
+    </si>
+    <si>
+        <t>2/ Universal Fault Gas Triangle (Biểu đồ 3 tỷ số)</t>
+    </si>
+    <si>
+        <t>3/ Biểu đồ 2 tỷ số</t>
+    </si>
+    <si>
+        <t>Biểu đồ C2H2/C2H4 - CH4/H2</t>
+    </si>
+    <si>
+        <t>Biểu đồ C2H2/C2H4 - C2H4/C2H6</t>
+    </si>
+    <si>
+        <t>4/ Biểu đồ theo khí cơ bản ( IEEE C57.104)</t>
+    </si>
+    <si>
+        <t>Chuan1</t>
+    </si>
+    <si>
+        <t>Chuan2</t>
+    </si>
+    <si>
+        <t>Chuan3</t>
+    </si>
+    <si>
+        <t>Chuan4</t>
+    </si>
+    <si>
+        <t/>
+    </si>
+    <si>
+        <t>5/ Biểu đồ theo chỉ dẫn của Nga</t>
+    </si>
+    <si>
+        <t xml:space="preserve">        Biểu đồ đặc trưng</t>
+    </si>
+    <si>
+        <t>STT</t>
+    </si>
+    <si>
+        <t>Mẫu TN</t>
+    </si>
+    <si>
+        <t>Chuan5</t>
+    </si>
+    <si>
+        <t>Chuan6</t>
+    </si>
+    <si>
+        <t>Chuan7</t>
+    </si>
+    <si>
+        <t>Chuan8</t>
+    </si>
+    <si>
+        <t>Chuan9</t>
+    </si>
+    <si>
+        <t>Chuan10</t>
+    </si>
+    <si>
+        <t>Chuan11</t>
+    </si>
+    <si>
+        <t>Chuan12</t>
+    </si>
+    <si>
+        <t>Chuan13</t>
+    </si>
+    <si>
+        <t>Chuan14</t>
+    </si>
+    <si>
+        <t>Chuan17</t>
+    </si>
+    <si>
+        <t>Chuan16</t>
+    </si>
+    <si>
+        <t>Chuan15</t>
+    </si>
+    <si>
+        <t>Chuan18</t>
+    </si>
+    <si>
+        <t>Phân hủy nhiệt ở nhiệt độ t &gt; 700+ hồ quang</t>
+    </si>
+    <si>
+        <t>II/ Phương pháp Tỷ số khí</t>
+    </si>
+    <si>
+        <t xml:space="preserve">(Nhập nồng độ khí hoặc nhận xét đánh giá vào ô mầu vàng) </t>
+    </si>
+    <si>
+        <t>Tỷ số khí</t>
+    </si>
+    <si>
+        <t>Giá trị</t>
+    </si>
+    <si>
+        <t>R2 = C2H2/C2H4</t>
+    </si>
+    <si>
+        <t>R3 = C2H2/CH4</t>
+    </si>
+    <si>
+        <t>R4 = C2H6/C2H2</t>
+    </si>
+    <si>
+        <t>R5 = C2H4/C2H6</t>
+    </si>
+    <si>
+        <t>R1 = CH4/H2</t>
+    </si>
+    <si>
+        <t>R1</t>
+    </si>
+    <si>
+        <t>R2</t>
+    </si>
+    <si>
+        <t>R3</t>
+    </si>
+    <si>
+        <t>R4</t>
+    </si>
+    <si>
+        <t>R5</t>
+    </si>
+    <si>
+        <t>X</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Đánh giá chung: padi_danh_gia </t>
+    </si>
+    <si>
+        <r>
+            <t>Ghi chú:</t>
+        </r>
+        <r>
+            <rPr>
+                <sz val="10"/>
+                <rFont val="Times New Roman"/>
+                <family val="1"/>
+            </rPr>
+            <t xml:space="preserve"> </t>
+        </r>
+        <r>
+            <rPr>
+                <i/>
+                <sz val="10"/>
+                <rFont val="Times New Roman"/>
+                <family val="1"/>
+            </rPr>
+            <t>Dấu (-) là điều kiện xét không phù hợp, không xác định được. Lấy mẫu thí nghiệm lại.</t>
+        </r>
+    </si>
+    <si>
+        <t xml:space="preserve">                  Chỉ xét khi nồng độ một trong các khí (H2,CH4,C2H4,C2H2,C2H6,CO) &gt; L1 (L1-nồng độ giới hạn của khí tương ứng)</t>
+    </si>
+    <si>
+        <t>triangle</t>
+    </si>
+    <si>
+        <t>Kết quả thí nghiệm mẫu</t>
+    </si>
+    <si>
+        <t>Nồng độ gới hạn đối với các dạng LTC</t>
+    </si>
+    <si>
+        <t>LTC Type</t>
+    </si>
+    <si>
+        <t>&gt;1500</t>
+    </si>
+    <si>
+        <t>&gt;1000</t>
+    </si>
+    <si>
+        <t>LTC dạng hở (thở qua bộ khử ẩm)</t>
+    </si>
+    <si>
+        <t>&gt;5000</t>
+    </si>
+    <si>
+        <t>&gt;1200</t>
+    </si>
+    <si>
+        <t>&gt;9000</t>
+    </si>
+    <si>
+        <t>LTC dạng kín</t>
+    </si>
+    <si>
+        <t>&gt;10</t>
+    </si>
+    <si>
+        <t>&gt;100</t>
+    </si>
+    <si>
+        <t>&gt;5</t>
+    </si>
+    <si>
+        <t>LTC loại chân không</t>
+    </si>
+    <si>
+        <t>Đánh giá kết quả</t>
+    </si>
+    <si>
+        <t>Phương pháp đánh giá</t>
+    </si>
+    <si>
+        <t>Kết quả đánh giá</t>
+    </si>
+    <si>
+        <t>1/ Xử lý theo tỷ số khí</t>
+    </si>
+    <si>
+        <t>2/ Xử lý theo Don W.Rose</t>
+    </si>
+    <si>
+        <t>3/ Xử lý theo Hãng ABB</t>
+    </si>
+    <si>
+        <t>4/ Xử lý theo PowerTech Labs Inc.</t>
+    </si>
+    <si>
+        <t>5/ Xử lý theo Duval Triangle 2</t>
+    </si>
+    <si>
+        <t>N</t>
+    </si>
+    <si>
+        <t>X3</t>
+    </si>
+    <si>
+        <t>X1</t>
+    </si>
+    <si>
+        <t>Phân hủy nhiệt T2+T3 hoặc phóng điện D2</t>
+    </si>
+    <si>
+        <t>Phóng điện bình thường D1</t>
+    </si>
+    <si>
+        <t>Phóng điện D1 + phân hủy nhiệt T1</t>
+    </si>
+    <si>
+        <t>Phân hủy nhiệt T3 &gt;700 độ (tạo nhiều muội than)</t>
+    </si>
+    <si>
+        <t>Phân hủy nhiệt 300&lt;T3&lt;700 độ (tạo muội than)</t>
+    </si>
+    <si>
+        <t>Tỷ số</t>
+    </si>
+    <si>
+        <t>C2H4/C2H2</t>
+    </si>
+    <si>
+        <t>C2H4/(C2H2+H2)</t>
+    </si>
+    <si>
+        <t>(C2H4+C2H6+CH4)/(C2H2+H2)</t>
+    </si>
+    <si>
+        <t>C2H4/CH4</t>
+    </si>
+    <si>
+        <t>Giới hạn</t>
+    </si>
+    <si>
+        <t xml:space="preserve"> Tỷ số của mẫu TN</t>
+    </si>
+    <si>
+        <t>2/ Xử lý theo Don W. Rose</t>
+    </si>
+    <si>
+        <t>Key=CH4+C2H6+C2H4</t>
+    </si>
+    <si>
+        <t>Total=Key+C2H2+H2</t>
+    </si>
+    <si>
+        <t>Key/Total (%)</t>
+    </si>
+    <si>
+        <t>Key/C2H2 (%)</t>
+    </si>
+    <si>
+        <t>C2H4/C2H2 (%)</t>
+    </si>
+    <si>
+        <t>(CH4+C2H4+C2H6)/C2H2</t>
+    </si>
+    <si>
+        <t>Tiêu chuẩn</t>
+    </si>
+    <si>
+        <t>&lt; 0.5</t>
+    </si>
+    <si>
+        <t>&gt;0.5,&lt;1.0</t>
+    </si>
+    <si>
+        <t>Kiểm tra lại mẫu sau 3-6 tháng</t>
+    </si>
+    <si>
+        <t>&gt;1, &lt;3</t>
+    </si>
+    <si>
+        <t>Kiểm tra lại mẫu sau 1-3 tháng</t>
+    </si>
+    <si>
+        <t>&gt;3, &lt;5</t>
+    </si>
+    <si>
+        <t>Kiểm tra lại mẫu sau 1 tháng</t>
+    </si>
+    <si>
+        <t>&gt;=5.0</t>
+    </si>
+    <si>
+        <t>Xuất hiện quá nhiệt, kiểm tra tiếp điểm</t>
+    </si>
+    <si>
+        <t>(Điều kiện xác định khi C2H2&gt;500ppm)</t>
+    </si>
+    <si>
+        <t>(Điều kiện tính khi ít nhất có một khí thành phần vượt giới hạn)</t>
+    </si>
+    <si>
+        <t>C2H2/TDCG</t>
+    </si>
+    <si>
+        <t>(C2H2+CH4+H2)/TDCG</t>
+    </si>
+    <si>
+        <t>Log(C2H4/C2H2)</t>
+    </si>
+    <si>
+        <t>Log[(C2H4+C2H6)/C2H2]</t>
+    </si>
+    <si>
+        <t>0.3-1.0</t>
+    </si>
+    <si>
+        <t>0.7-1.0</t>
+    </si>
+    <si>
+        <t>&lt;0</t>
+    </si>
+    <si>
+        <t>&lt;0.3</t>
+    </si>
+    <si>
+        <t>&lt;0.7</t>
+    </si>
+    <si>
+        <t>0-0.5</t>
+    </si>
+    <si>
+        <t>&lt;=0.1</t>
+    </si>
+    <si>
+        <t>&gt;0.5</t>
+    </si>
+    <si>
+        <t>TDCG</t>
+    </si>
+    <si>
+        <t>C2H4+C2H6</t>
+    </si>
+    <si>
+        <t>Tỷ số của mẫu thí nghiệm</t>
+    </si>
+    <si>
+        <t>Cảnh báo</t>
+    </si>
+    <si>
+        <t>Sự cố</t>
+    </si>
+    <si>
+        <t>1/ Xử lý kết quả theo tỷ số khí</t>
+    </si>
+    <si>
+        <t>Duval Triangle 2 cho OLTC</t>
+    </si>
+    <si>
+        <t>Trạm 110kV Điện Biên</t>
+    </si>
+    <si>
+        <t xml:space="preserve">MBA T1 25MVA-110kV Số </t>
+    </si>
+    <si>
+        <t>Thùng dầu OLTC</t>
+    </si>
+    <si>
+        <t>27/1/2010</t>
+    </si>
+    <si>
+        <t>Đánh giá chung</t>
+    </si>
+    <si>
+        <r>
+            <t>Tên thiết bị</t>
+        </r>
+        <r>
+            <rPr>
+                <sz val="12"/>
+                <rFont val="Times New Roman"/>
+                <family val="1"/>
+            </rPr>
+            <t xml:space="preserve">:    </t>
+        </r>
+    </si>
+    <si>
+        <t>Phóng điện năng lượng thấp (D1)</t>
+    </si>
+    <si>
+        <t>Phóng điện cục bộ năng lượng thấp (PD)</t>
+    </si>
+    <si>
+        <t>Phóng tia lửa điện (D1)</t>
+    </si>
+    <si>
+        <t>Phóng hồ quang điện (D2)</t>
+    </si>
+    <si>
+        <t>Phân hủy nhiệt ở nhiệt độ 300&lt;T&lt;700 (T2)</t>
+    </si>
+    <si>
+        <t>Phân hủy nhiệt ở nhiệt độ t&lt;700, chuyển sang phóng điện cục bộ PD (T2)</t>
+    </si>
+    <si>
+        <t>Phân hủy nhiệt ở nhiệt độ t&lt;700, cháy dao lựa chọn (T2)</t>
+    </si>
+    <si>
+        <t>Phân hủy nhiệt ở nhiệt độ t &gt; 700 (T3)</t>
+    </si>
+    <si>
+        <t>Phân hủy nhiệt ở nhiệt độ t &gt;700, ngắn mạch từ (T3)</t>
+    </si>
+    <si>
+        <t>Phân hủy nhiệt ở nhiệt độ t &gt;700, tiếp xúc kém (T3)</t>
+    </si>
+    <si>
+        <t>Phân hủy nhiệt ở nhiệt độ t&gt;700, cháy tiếp điểm dao cắt (T3)</t>
+    </si>
+    <si>
+        <t>Gridlines</t>
+    </si>
+    <si>
+        <t>Gridline</t>
+    </si>
+    <si>
+        <t>Area</t>
+    </si>
+    <si>
+        <t>Points</t>
+    </si>
+    <si>
+        <t>PD1</t>
+    </si>
+    <si>
+        <t>PD2</t>
+    </si>
+    <si>
+        <t>PD3</t>
+    </si>
+    <si>
+        <t>PD4</t>
+    </si>
+    <si>
+        <t>O</t>
+    </si>
+    <si>
+        <t>O1</t>
+    </si>
+    <si>
+        <t>O2</t>
+    </si>
+    <si>
+        <t>O3</t>
+    </si>
+    <si>
+        <t>O4</t>
+    </si>
+    <si>
+        <t>ND</t>
+    </si>
+    <si>
+        <t>ND1</t>
+    </si>
+    <si>
+        <t>ND2</t>
+    </si>
+    <si>
+        <t>ND3</t>
+    </si>
+    <si>
+        <t>S</t>
+    </si>
+    <si>
+        <t>S1</t>
+    </si>
+    <si>
+        <t>S2</t>
+    </si>
+    <si>
+        <t>S3</t>
+    </si>
+    <si>
+        <t>S4</t>
+    </si>
+    <si>
+        <t>S5</t>
+    </si>
+    <si>
+        <t>S6</t>
+    </si>
+    <si>
+        <t>S7</t>
+    </si>
+    <si>
+        <t>S8</t>
+    </si>
+    <si>
+        <t>S9</t>
+    </si>
+    <si>
+        <t>S10</t>
+    </si>
+    <si>
+        <t>S11</t>
+    </si>
+    <si>
+        <t>S12</t>
+    </si>
+    <si>
+        <t>C</t>
+    </si>
+    <si>
+        <t>C1</t>
+    </si>
+    <si>
+        <t>C2</t>
+    </si>
+    <si>
+        <t>C3</t>
+    </si>
+    <si>
+        <t>C4</t>
+    </si>
+    <si>
+        <t>C5</t>
+    </si>
+    <si>
+        <t>C6</t>
+    </si>
+    <si>
+        <t>III/ Duval Triangle 4 cho trường hợp quá nhiệt ở nhiệt độ thấp</t>
+    </si>
+    <si>
+        <t>(Dùng khi Triangle 1 phát hiện: PD, T1, T2)</t>
+    </si>
+    <si>
+        <t>T</t>
+    </si>
+    <si>
+        <t>ppm</t>
+    </si>
+    <si>
+        <t>%</t>
+    </si>
+    <si>
+        <t>Xc</t>
+    </si>
+    <si>
+        <t>Yc</t>
+    </si>
+    <si>
+        <t>Khí lạc trong dầu (T&lt;200 độ)</t>
+    </si>
+    <si>
+        <t>Điểm nóng hình thành C trong giấy</t>
+    </si>
+    <si>
+        <t>Quá nhiệt</t>
+    </si>
+    <si>
+        <t>Không xác định</t>
+    </si>
+    <si>
+        <t>IV/ Duval Triangle 5 cho trường hợp quá nhiệt ở nhiệt độ cao</t>
+    </si>
+    <si>
+        <t>CH4(%)</t>
+    </si>
+    <si>
+        <t>C2H4(%)</t>
+    </si>
+    <si>
+        <t>C2H6(%)</t>
+    </si>
+    <si>
+        <t>ND4</t>
+    </si>
+    <si>
+        <t>O5</t>
+    </si>
+    <si>
+        <t>O6</t>
+    </si>
+    <si>
+        <t>O7</t>
+    </si>
+    <si>
+        <t>O8</t>
+    </si>
+    <si>
+        <t>O9</t>
+    </si>
+    <si>
+        <t>T21</t>
+    </si>
+    <si>
+        <t>T22</t>
+    </si>
+    <si>
+        <t>T23</t>
+    </si>
+    <si>
+        <t>T24</t>
+    </si>
+    <si>
+        <t>T31</t>
+    </si>
+    <si>
+        <t>T32</t>
+    </si>
+    <si>
+        <t>T33</t>
+    </si>
+    <si>
+        <t>T34</t>
+    </si>
+    <si>
+        <t>T35</t>
+    </si>
+    <si>
+        <t>T36</t>
+    </si>
+    <si>
+        <t>T37</t>
+    </si>
+    <si>
+        <t>T38</t>
+    </si>
+    <si>
+        <t>T39</t>
+    </si>
+    <si>
+        <t>series 10</t>
+    </si>
+    <si>
+        <t>series 6</t>
+    </si>
+    <si>
+        <t>Quá nhiệt 300 &lt; T &lt; 700 (độ C)</t>
+    </si>
+    <si>
+        <t>Quá nhiệt T &gt; 700 (độ C)</t>
+    </si>
+    <si>
+        <t>10/ Duval Triangle 4 (Quá nhiệt ở nhiệt độ thấp)</t>
+    </si>
+    <si>
+        <t>FR=(C2H2+H2)/TKC</t>
+    </si>
+    <si>
+        <t>R1=(CH4+C2H6+C2H4)/(CH4+C2H6+C2H4+C2H2)</t>
+    </si>
+    <si>
+        <t>R2=(CH4+C2H6+C2H4)/C2H2</t>
+    </si>
+    <si>
+        <t>R3=C2H4/C2H2</t>
+    </si>
+    <si>
+        <t>Ký hiệu</t>
+    </si>
+    <si>
+        <t>FR</t>
+    </si>
+    <si>
+        <t>Value</t>
+    </si>
+    <si>
+        <t>Attetion</t>
+    </si>
+    <si>
+        <t>Công thức tính</t>
+    </si>
+    <si>
+        <t>&lt;=0.6</t>
+    </si>
+    <si>
+        <t>&lt;=0.35</t>
+    </si>
+    <si>
+        <t>&lt;=0.15</t>
+    </si>
+    <si>
+        <t>&gt;=0.5</t>
+    </si>
+    <si>
+        <t>&gt;=0.6</t>
+    </si>
+    <si>
+        <t>&gt;=0.8</t>
+    </si>
+    <si>
+        <t>&gt;=4</t>
+    </si>
+    <si>
+        <t>&gt;=6</t>
+    </si>
+    <si>
+        <t>&gt;=1</t>
+    </si>
+    <si>
+        <t>&gt;=9</t>
+    </si>
+    <si>
+        <t>5/ Phương pháp tỷ số cho trường hợp công tắc bị quá nhiệt (Schellhase et al. 1999).</t>
+    </si>
+    <si>
+        <t>CH4+C2H4+C2H6+C2H2</t>
+    </si>
+    <si>
+        <t>Fault</t>
+    </si>
+    <si>
+        <t>Attention</t>
+    </si>
+    <si>
+        <t>Result</t>
+    </si>
+    <si>
+        <t>Caution</t>
+    </si>
+    <si>
+        <t>Validition</t>
+    </si>
+    <si>
+        <t>B1=(C2H2)/TKC</t>
+    </si>
+    <si>
+        <t>B3=LOG(C2H4/C2H2)</t>
+    </si>
+    <si>
+        <t>B4=LOG[(C2H4+C2H6)/C2H2]</t>
+    </si>
+    <si>
+        <t>B1</t>
+    </si>
+    <si>
+        <t>B2</t>
+    </si>
+    <si>
+        <t>B3</t>
+    </si>
+    <si>
+        <t>B4</t>
+    </si>
+    <si>
+        <t>B2=(C2H2+CH4+H2/TKC</t>
+    </si>
+    <si>
+        <t>CH4+C2H2+H2</t>
+    </si>
+    <si>
+        <t>6/ Phương pháp tỷ số cho trường hợp giới hạn cảnh báo (Schellhase et al. 1999).</t>
+    </si>
+    <si>
+        <t>Duval Pentagon</t>
+    </si>
+    <si>
+        <t>PPM</t>
+    </si>
+    <si>
+        <t>Y</t>
+    </si>
+    <si>
+        <t>Xi*Yi+1</t>
+    </si>
+    <si>
+        <t>Xi+1*Yi</t>
+    </si>
+    <si>
+        <t>B-C</t>
+    </si>
+    <si>
+        <t>Xi+Xi+1</t>
+    </si>
+    <si>
+        <t>Yi+Yi+1</t>
+    </si>
+    <si>
+        <t>D*(B-C)</t>
+    </si>
+    <si>
+        <t>E*(B-C)</t>
+    </si>
+    <si>
+        <t>sum</t>
+    </si>
+    <si>
+        <t>SUM</t>
+    </si>
+    <si>
+        <t>A=</t>
+    </si>
+    <si>
+        <t>Cx</t>
+    </si>
+    <si>
+        <t>Cy</t>
+    </si>
+    <si>
+        <t>A= SUM(B-C)/2</t>
+    </si>
+    <si>
+        <t>Cx=SUM[D*(B-C)]/(6*A)</t>
+    </si>
+    <si>
+        <t>Cy=SUM[E*(B-C)]/(6*A)</t>
+    </si>
+    <si>
+        <t>Pentagon-Thí dụ</t>
+    </si>
+    <si>
+        <t>GAS</t>
+    </si>
+    <si>
+        <t>Tâm - Pentagon (Centroid)</t>
+    </si>
+    <si>
+        <t>Pentagon</t>
+    </si>
+    <si>
+        <t>Pentegon 1+2</t>
+    </si>
+    <si>
+        <t>Đường kẻ nối tâm</t>
+    </si>
+    <si>
+        <t>H2-100%</t>
+    </si>
+    <si>
+        <t>C2H6-100%</t>
+    </si>
+    <si>
+        <t>CH4-100%</t>
+    </si>
+    <si>
+        <t>C2H4-100%</t>
+    </si>
+    <si>
+        <t>C2H2-100%</t>
+    </si>
+    <si>
+        <t>T3-H</t>
+    </si>
+    <si>
+        <t>COS(RADIANS(18))</t>
+    </si>
+    <si>
+        <t>SIN(RADIANS(18))</t>
+    </si>
+    <si>
+        <t>COS(RADIANS(54))</t>
+    </si>
+    <si>
+        <t>SIN(RADIANS(54))</t>
+    </si>
+    <si>
+        <t>Quá nhiệt T3 chỉ trong dầu</t>
+    </si>
+    <si>
+        <t>Triangle - 1</t>
+    </si>
+    <si>
+        <t>Triangle-4</t>
+    </si>
+    <si>
+        <t>Triangle-5</t>
+    </si>
+    <si>
+        <t>Tính Tâm điểm của Pentagon</t>
+    </si>
+    <si>
+        <t>To</t>
+    </si>
+    <si>
+        <r>
+            <t>Quá nhiệt T&lt;150</t>
+        </r>
+        <r>
+            <rPr>
+                <vertAlign val="superscript"/>
+                <sz val="14"/>
+                <rFont val="Times New Roman"/>
+                <family val="1"/>
+            </rPr>
+            <t>o</t>
+        </r>
+        <r>
+            <rPr>
+                <sz val="14"/>
+                <rFont val="Times New Roman"/>
+                <family val="1"/>
+            </rPr>
+            <t>C</t>
+        </r>
+    </si>
+    <si>
+        <t>1/ Phương pháp tỷ số theo IEC60599-2015</t>
+    </si>
+    <si>
+        <t>2/ Phương pháp tỷ số theo ROGER (IEEE C57.104.2019)</t>
+    </si>
+    <si>
+        <t>3/ Phương pháp tỷ số theo DOERNENBURG (IEEE C57.104.2019)</t>
+    </si>
+    <si>
+        <t>4/ Phương pháp tỷ số theo tiêu chuẩn Nga-2000</t>
+    </si>
+    <si>
+        <t>5/ Phương pháp biểu đồ theo khí cơ bản (IEEE C57.104.2019)</t>
+    </si>
+    <si>
+        <t>7/ Phương pháp biểu đồ 2 tỷ số (IEC 60599-2015)</t>
+    </si>
+    <si>
+        <t>8/ Phương pháp biểu đồ 3 tỷ số - Duval Triangle (IEC 60599-2015)</t>
+    </si>
+    <si>
+        <t>12/ Duval Pentagon - 1</t>
+    </si>
+    <si>
+        <t>13/ Duval Pentagon - 2</t>
+    </si>
+    <si>
+        <t>KL</t>
+    </si>
+    <si>
+        <t>11/ Duval Triangle 5 (Quá nhiệt ở nhiệt độ cao)</t>
+    </si>
+    <si>
+        <t>IEC 60599-2015</t>
+    </si>
+    <si>
+        <t>IEEE C57.104-2019</t>
+    </si>
+    <si>
+        <t>Y1</t>
+    </si>
+    <si>
+        <t>Y2</t>
+    </si>
+    <si>
+        <t>Y3</t>
+    </si>
+    <si>
+        <t>Y4</t>
+    </si>
+    <si>
+        <t>Y5</t>
+    </si>
+    <si>
+        <t>Y6</t>
+    </si>
+    <si>
+        <t>Y7</t>
+    </si>
+    <si>
+        <t>Y8</t>
+    </si>
+    <si>
+        <t>Y9</t>
+    </si>
+    <si>
+        <t>Y10</t>
+    </si>
+    <si>
+        <t>Y11</t>
+    </si>
+    <si>
+        <t>a</t>
+    </si>
+    <si>
+        <t>b</t>
+    </si>
+    <si>
+        <t>P-1</t>
+    </si>
+    <si>
+        <t>P-2</t>
+    </si>
+    <si>
+        <r>
+            <t>Khí lạc trong dầu (T&lt;200</t>
+        </r>
+        <r>
+            <rPr>
+                <vertAlign val="superscript"/>
+                <sz val="12"/>
+                <rFont val="Arial"/>
+                <family val="2"/>
+            </rPr>
+            <t>O</t>
+        </r>
+        <r>
+            <rPr>
+                <sz val="12"/>
+                <rFont val="Arial"/>
+                <family val="2"/>
+            </rPr>
+            <t>c)</t>
+        </r>
+    </si>
+    <si>
+        <r>
+            <t>Quá nhiệt 300</t>
+        </r>
+        <r>
+            <rPr>
+                <vertAlign val="superscript"/>
+                <sz val="12"/>
+                <rFont val="Arial"/>
+                <family val="2"/>
+            </rPr>
+            <t>o</t>
+        </r>
+        <r>
+            <rPr>
+                <sz val="12"/>
+                <rFont val="Arial"/>
+                <family val="2"/>
+            </rPr>
+            <t>C &lt; T &lt; 700</t>
+        </r>
+        <r>
+            <rPr>
+                <vertAlign val="superscript"/>
+                <sz val="12"/>
+                <rFont val="Arial"/>
+                <family val="2"/>
+            </rPr>
+            <t>o</t>
+        </r>
+        <r>
+            <rPr>
+                <sz val="12"/>
+                <rFont val="Arial"/>
+                <family val="2"/>
+            </rPr>
+            <t>C</t>
+        </r>
+    </si>
+    <si>
+        <r>
+            <t>Quá nhiệt T &gt; 700</t>
+        </r>
+        <r>
+            <rPr>
+                <vertAlign val="superscript"/>
+                <sz val="12"/>
+                <rFont val="Arial"/>
+                <family val="2"/>
+            </rPr>
+            <t>o</t>
+        </r>
+        <r>
+            <rPr>
+                <sz val="12"/>
+                <rFont val="Arial"/>
+                <family val="2"/>
+            </rPr>
+            <t>C</t>
+        </r>
+    </si>
+    <si>
+        <t>Phóng điện năng lượng thấp</t>
+    </si>
+    <si>
+        <t>Phóng điện năng lượng cao</t>
+    </si>
+    <si>
+        <r>
+            <t>Quá nhiệt T &lt; 300</t>
+        </r>
+        <r>
+            <rPr>
+                <vertAlign val="superscript"/>
+                <sz val="12"/>
+                <rFont val="Arial"/>
+                <family val="2"/>
+            </rPr>
+            <t>o</t>
+        </r>
+        <r>
+            <rPr>
+                <sz val="12"/>
+                <rFont val="Arial"/>
+                <family val="2"/>
+            </rPr>
+            <t>C</t>
+        </r>
+    </si>
+    <si>
+        <t>NEI = Normalized Energy Intensity</t>
+    </si>
+    <si>
+        <t>NEIoil</t>
+    </si>
+    <si>
+        <t>NEI3oil</t>
+    </si>
+    <si>
+        <t>NEIpaper</t>
+    </si>
+    <si>
+        <t>(IEEE C57.104-2019)</t>
+    </si>
+</sst>

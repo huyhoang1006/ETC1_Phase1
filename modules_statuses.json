@@ -1,0 +1,12 @@
+{
+    "Core": true,
+    "Device": true,
+    "Report": true,
+    "Analytic": true,
+    "Machines": true,
+    "Enery": true,
+    "Automation": true,
+    "Measure": true,
+    "Role": true,
+    "Electromechanical": true
+}

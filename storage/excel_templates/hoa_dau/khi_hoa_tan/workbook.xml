@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"
+          xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+          xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="x15 xr xr6 xr10"
+          xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main"
+          xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"
+          xmlns:xr6="http://schemas.microsoft.com/office/spreadsheetml/2016/revision6"
+          xmlns:xr10="http://schemas.microsoft.com/office/spreadsheetml/2016/revision10">
+    <fileVersion appName="xl" lastEdited="7" lowestEdited="7" rupBuild="23901"/>
+    <workbookPr codeName="ThisWorkbook" defaultThemeVersion="124226"/>
+    <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+        <mc:Choice Requires="x15">
+            <x15ac:absPath url="C:\Users\cloudconvert\server\files\tasks\d9972448-3ad5-40cb-9202-c175d92add89\"
+                           xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac"/>
+        </mc:Choice>
+    </mc:AlternateContent>
+    <xr:revisionPtr revIDLastSave="0" documentId="8_{2FD72622-EE2F-4719-A5D1-12861A7FA2A0}" xr6:coauthVersionLast="46"
+                    xr6:coauthVersionMax="46" xr10:uidLastSave="{00000000-0000-0000-0000-000000000000}"/>
+    <bookViews>
+        <workbookView xWindow="390" yWindow="390" windowWidth="11520" windowHeight="7875"/>
+    </bookViews>
+    <sheets>
+        <sheet name="MBA" sheetId="1" r:id="rId1"/>
+        <sheet name="Sheet2" sheetId="2" state="hidden" r:id="rId2"/>
+        <sheet name="OLTC" sheetId="7" state="hidden" r:id="rId3"/>
+        <sheet name="Sheet4" sheetId="8" state="hidden" r:id="rId4"/>
+        <sheet name="Sheet3" sheetId="6" state="veryHidden" r:id="rId5"/>
+    </sheets>
+    <definedNames>
+        <definedName name="KETQUA1">Sheet2!$K$6:$K$12</definedName>
+        <definedName name="KETQUA2">Sheet2!$J$57:$J$63</definedName>
+        <definedName name="KETQUA3">Sheet2!$M$57:$M$63</definedName>
+        <definedName name="KETQUA4">Sheet2!$K$30:$K$35</definedName>
+        <definedName name="KETQUA5">Sheet4!$J$7:$J$22</definedName>
+        <definedName name="KETQUA6">Sheet2!$M$30:$M$35</definedName>
+        <definedName name="pctC2H2" localSheetId="1">Sheet2!#REF!</definedName>
+        <definedName name="pctC2H2" localSheetId="3">Sheet4!#REF!</definedName>
+        <definedName name="pctC2H4" localSheetId="1">Sheet2!#REF!</definedName>
+        <definedName name="pctC2H4" localSheetId="3">Sheet4!#REF!</definedName>
+        <definedName name="pctCH4" localSheetId="1">Sheet2!#REF!</definedName>
+        <definedName name="pctCH4" localSheetId="3">Sheet4!#REF!</definedName>
+        <definedName name="ppmC2H2" localSheetId="1">Sheet2!#REF!</definedName>
+        <definedName name="ppmC2H2" localSheetId="3">Sheet4!#REF!</definedName>
+        <definedName name="ppmC2H4" localSheetId="1">Sheet2!#REF!</definedName>
+        <definedName name="ppmC2H4" localSheetId="3">Sheet4!#REF!</definedName>
+        <definedName name="ppmC2H41">#REF!</definedName>
+        <definedName name="ppmCH4" localSheetId="1">Sheet2!#REF!</definedName>
+        <definedName name="ppmCH4" localSheetId="3">Sheet4!#REF!</definedName>
+        <definedName name="ppmCH41">#REF!</definedName>
+        <definedName name="Résultat" localSheetId="1">Sheet2!#REF!</definedName>
+        <definedName name="Résultat" localSheetId="3">Sheet4!#REF!</definedName>
+        <definedName name="SommeABC" localSheetId="1">Sheet2!#REF!</definedName>
+        <definedName name="SommeABC" localSheetId="3">Sheet4!#REF!</definedName>
+    </definedNames>
+    <calcPr calcId="999999" calcMode="auto" fullCalcOnLoad="1" calcCompleted="0" forceFullCalc="1"/>
+</workbook>
